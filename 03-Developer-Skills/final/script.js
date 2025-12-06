@@ -226,3 +226,8 @@ const weeklyHours2 = [7.5, 8, 6.5, 0, 8.5];
 const analysis2 = analyzeWorkWeek(weeklyHours2);
 console.log(analysis2);
 */
+
+
+
+
+//
